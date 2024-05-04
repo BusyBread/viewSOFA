@@ -3,6 +3,9 @@ This ZSH script uses the MacAdmins Simple Organized Feed for Apple Software Upda
 
 The script will also keep a local version of the fetched data in `~/Library/Application Data/SOFA`, alongside a history file which will be used to track when a newer version has been released.
 
+## Requirements
+[swiftDialog](https://github.com/swiftDialog/swiftDialog/latest) version 2+ or higher.
+
 ## User Interface
 ![Main View](https://github.com/BusyBread/viewSOFA/blob/main/images/viewSOFA-Main.png)
 
