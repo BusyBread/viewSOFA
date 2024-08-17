@@ -37,7 +37,7 @@ softRootDir="/Users/${currentUser}/Library/Application Support/SOFA"
 softLog="${softRootDir}/${scriptName}.log"
 sofaHistory="${softRootDir}/history"
 softUrlRoot="https://sofa.macadmins.io"
-softIcon="${softUrlRoot}/images/custom_logo.png"
+softIcon="${softUrlRoot}/custom_logo.png"
 #endregion Parameters / Variables
 
 #region Functions
